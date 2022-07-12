@@ -1,0 +1,57 @@
+#my-universe-navbar-logo {
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  color: #3b5998;
+  outline: none;
+  font-family: "Pacifico", cursive;
+}
+
+#navbar {
+  background: none;
+  position: fixed;
+  z-index: 999;
+  display: flex;
+  width: 100%;
+}
+
+/* .my-universe-font-nav{
+  padding-left: 20px;
+} */
+
+.my-universe-btn-nav-01 {
+  width: 100px;
+  height: 40px;
+  border-radius: none;
+  outline: none;
+  color: #3b5998;
+  font-size: 15px;
+  padding: 5px;
+  background: #d7dfe4;
+}
+
+.my-universe-btn-nav-02 {
+  cursor: pointer;
+  width: 100px;
+  height: 40px;
+  background: #3b5998;
+  color: #d7dfe4;
+  font-size: 15px;
+  padding: 5px;
+}
+
+/* .my-universe-btn-nav-icon{
+  border-radius: none;
+  outline: none;
+  background: none;
+  color: black;
+  font-size: 15px;
+}
+
+.my-universe-btn-nav-icon:hover {
+    cursor: pointer;
+    background: none;
+    color: purple;
+    transition: all 0.4s ease-out;
+
+} */

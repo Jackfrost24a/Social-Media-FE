@@ -1,0 +1,26 @@
+.my-universe-background-log {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: right;
+}
+
+.my-universe-input-log {
+  border-bottom: 1px solid darkgrey;
+  height: 50px;
+}
+
+#my-universe-btn-log {
+  background-color: #3b5998;
+  color: white;
+  width: 150px;
+}
+
+#my-universe-btn-log:hover {
+  background-color: white;
+  color: black;
+}
+
+.my-universe-form-log {
+  width: 300px;
+}

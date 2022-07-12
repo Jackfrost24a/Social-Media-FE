@@ -1,0 +1,36 @@
+.my-universe-background {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: right;
+}
+
+#landingpage {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: fixed;
+  display: flex;
+  font-family: "Source Sans Pro";
+}
+
+.my-universe-homepage-image {
+  padding-bottom: 30px;
+  border: 1px solid black;
+}
+
+.my-universe-font {
+  color: #3b5998;
+}
+
+.my-universe-btn {
+  border-radius: 30px;
+  background-color: #3b5998;
+  color: white;
+  width: 150px;
+  margin-top: 20px;
+}
+
+.my-universe-btn:hover {
+  background-color: rgb(124, 101, 136);
+  color: black;
+}
